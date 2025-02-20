@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ryukenz2.github.io/today/sitemap.xml
